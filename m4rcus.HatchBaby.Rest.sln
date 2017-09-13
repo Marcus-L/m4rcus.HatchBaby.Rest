@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4rcus.HatchBaby.Rest", "m4rcus.HatchBaby.Rest\m4rcus.HatchBaby.Rest.csproj", "{32E7BEE2-27F1-4E72-8EB4-F34535F5B9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{71D3A91A-A828-4598-B8B9-B42D3D1BB2FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{32E7BEE2-27F1-4E72-8EB4-F34535F5B9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32E7BEE2-27F1-4E72-8EB4-F34535F5B9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32E7BEE2-27F1-4E72-8EB4-F34535F5B9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D3A91A-A828-4598-B8B9-B42D3D1BB2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D3A91A-A828-4598-B8B9-B42D3D1BB2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D3A91A-A828-4598-B8B9-B42D3D1BB2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D3A91A-A828-4598-B8B9-B42D3D1BB2FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
