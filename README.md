@@ -1,10 +1,13 @@
 # Hatch Baby Rest BLE API (.NET)
 
-This .NET API allows programmatic control over the basic functions of the Hatch Baby Rest, including Power, Color, Volume and Audio Track. 
+This .NET API allows programmatic control over the basic functions of the <a href="https://www.hatchbaby.com/pages/rest">Hatch Baby Rest</a> Smart Night Light, Sound Machine and OK-to-Wake, including control of Power, Color, Volume and Audio Track.
+
+<img src="https://cdn.shopify.com/s/files/1/0956/6514/collections/HatchBabyRestNightlightRemoteBlue.jpg" height="350">
 
 ## Requirements
 * .NET Framework v4.6.1+
 * Windows 10 Creators Update (OS Version 15063 or later) - to support non-pairing Bluetooth LE communication
+* Windows 10 Compatible Bluetooth LE hardware  (tested on <a href="https://www.intel.com/content/www/us/en/products/wireless/wireless-products/dual-band-wireless-ac-7260.html">Intel Dual Band Wireless-AC 7260</a> with integrated Bluetooth)
 
 ## Installation
 ```powershell
