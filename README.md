@@ -57,7 +57,7 @@ static void Main(string[] args)
     Trace.Listeners.Add(new ConsoleTraceListener());
 }
 ```
-See <a href="./TestConsole">the sample console app</a> for more examples.
+See <a href="./TestConsole/Program.cs">the sample console app</a> for more examples.
 
 ## Contributing
 
